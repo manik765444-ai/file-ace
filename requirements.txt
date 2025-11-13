@@ -1,0 +1,6 @@
+Here are the common Python dependencies for a file organizer:
+
+```
+shutil
+os
+glob
